@@ -18,7 +18,7 @@
     
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angieetriana&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angieetriana&hide_progress=true)
  
 ## Sobre mim
 
